@@ -24,6 +24,5 @@
 | 14   | JSON     | 2677     | Chunk Array                                | Easy   | [JSON/2677. Chunk Array/README.md](./JSON/2677.%20Chunk%20Array/README.md)                                                                           |
 | 15   | JSON     | 2727     | Is Object Empty                            | Easy   | [JSON/2727. Is Object Empty/README.md](./JSON/2727.%20Is%20Object%20Empty/README.md)                                                                 |
 | 16   | Promise  | 2723     | Add Two Promises                           | Easy   | [Promise/2723. Add Two Promises/README.md](./Promise/2723.%20Add%20Two%20Promises/README.md)                                                         |
-|  |
 | 17   | Promise  | 2621     | Sleep                                      | Easy   | [Promise/2621. Sleep/README.md](./Promise/2621.%20Sleep/README.md)                                                                                   |
 | 18   | Promise  | 2715     | Timeout Cancellation                       | Easy   | [Promise/2715. Timeout Cancellation/README.md](./Promise/2715.%20Timeout%20Cancellation/README.md)                                                   |
